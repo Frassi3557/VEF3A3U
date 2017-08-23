@@ -1,0 +1,1 @@
+HTTP2 er alltaf HTTPS og getur hlaðað vefsíðum mun hraðar en HTTP1 ef þær eru settar rétt upp fyrir HTTP2
